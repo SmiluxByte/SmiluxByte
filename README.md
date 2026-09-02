@@ -1,9 +1,11 @@
-👋 Hi, I’m @SmiluxByte
+👋 Hey, I’m @SmiluxByte — a Roblox developer, VFX/UI creator, and tool builder.
 
-👀 I’m interested in programming, web development, and open source projects.
+🎮 I build playful Roblox experiences, gameplay systems, interfaces, effects, and creator tools.
 
-🌱 I’m currently learning new programming languages and frameworks to expand my skills.
+🧰 I work with Luau, Python, web technologies, Blender, and Cloudflare.
 
-💞️ I’m looking to collaborate on exciting projects that involve front-end development or Python programming.
+🚀 I love turning rough ideas into polished, goofy, satisfying experiences.
 
-📫 You can reach me by sending a message here on GitHub.
+🤝 I’m open to collaborating on Roblox games, creative tools, frontend projects, and open-source work.
+
+📫 Feel free to reach out here on GitHub.
